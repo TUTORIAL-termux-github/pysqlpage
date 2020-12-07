@@ -1,3 +1,6 @@
 # pysqlpage
-vulnerability  sql page injection scanner ( v 1.0 ) 
-from indonesia
+vulnerability  sql page injection scanner 
+# 1.0
+# sql page injection
+# from indonesia
+
