@@ -16,6 +16,15 @@ git clone https://github.com/TUTORIAL-termux-github/pysqlpage
 cd pysqlpage
 
 sh menu.sh
+
+pilih 1 jika anda baru meng-install tool ini - wajib
+pilih 2 jika ingin membuka tool ini - install bahan dahulu 
+pilih 3 jika ingin melihat IP web 
+# fitur 
+* Tersedia menu agar lebih mudah dalam menggunakan
+* Melihat barisan halaman pada web target
+* Menginstall bahan tool otomatis
+* Melihat IP web target
 #
 # sql page injection
 # from indonesia
