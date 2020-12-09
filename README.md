@@ -1,4 +1,5 @@
 *
+~
 # pysqlpage
 vulnerability  sql page injection scanner 
 # V 1.0
