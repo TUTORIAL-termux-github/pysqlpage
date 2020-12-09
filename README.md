@@ -1,4 +1,3 @@
-#
 # pysqlpage
 vulnerability  sql page injection scanner 
 #
