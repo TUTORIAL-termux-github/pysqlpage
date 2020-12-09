@@ -3,8 +3,8 @@ vulnerability  sql page injection scanner
 # V 1.0
 # cara menggunakannya
 pkg update 
-#
-pkg upgrade
+
+_pkg upgrade_
 
 pkg install nodejs
 
