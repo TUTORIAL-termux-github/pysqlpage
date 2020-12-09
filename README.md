@@ -21,6 +21,5 @@ sh menu.sh
 #
 # sql page injection
 # from indonesia
-#
 © 2020 pysqlpage
 #
